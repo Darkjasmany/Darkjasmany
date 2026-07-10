@@ -24,32 +24,30 @@ Ingeniero en Sistemas Computacionales • Full Stack Developer
 
 ---
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 
 Soy **Ingeniero en Sistemas Computacionales** con una trayectoria de 10 años administrando infraestructura crítica (Linux, Proxmox, bases de datos) en el sector público. 
 
 Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplicaciones empresariales que digitalizan y automatizan procesos institucionales. Mi perfil combina la experiencia operativa y de servidores con el desarrollo moderno, permitiéndome tener una visión integral de los proyectos: desde su arquitectura inicial hasta su despliegue en producción.
 
----
-
-# 💼 Experiencia Destacada
+## 💼 Experiencia Destacada
 
 **🏛 GAD Municipal del cantón Naranjal** | *Analista de Sistemas* (2014 — Actualidad)
 - Liderazgo técnico en la modernización tecnológica de la institución.
-- Desarrollo e implementación en producción de sistemas clave (DMS institucional, plataformas de gestión).
-- Administración integral de bases de datos (PostgreSQL/MySQL) y virtualización.
+- Desarrollo e implementación en producción de sistemas clave y plataformas de gestión institucional.
+- Administración integral de bases de datos y virtualización.
   
----
 
-# 🛠 Stack Tecnológico
+## 🌐 Stack Tecnológico
 
-## 💻 Lenguajes
+### 💻 Lenguajes
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -60,7 +58,7 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-## ⚙ Backend
+### 🔧 Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -70,7 +68,7 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 </p>
 
-## 🛢 Bases de Datos
+### 🛢️ Bases de Datos
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -78,7 +76,7 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## 🐧 Infraestructura & DevOps
+### 🔍 Infraestructura & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -88,8 +86,7 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
 </p>
 
 ---
-
-# 🐍 Contribuciones
+## 📈 Contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Darkjasmany/Darkjasmany/output/github-contribution-grid-snake-dark.svg"/>
