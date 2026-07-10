@@ -89,11 +89,7 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
 
 ---
 
-# 📈 Actividad y Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkjasmany&theme=github-dark&hide_border=true"/>
-</p>
+# 🐍 Contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Darkjasmany/Darkjasmany/output/github-contribution-grid-snake-dark.svg"/>
