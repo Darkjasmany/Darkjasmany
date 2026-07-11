@@ -89,9 +89,12 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
 ## 📈 Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkjasmany/Darkjasmany/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkjasmany/Darkjasmany/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkjasmany/Darkjasmany/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/Darkjasmany/Darkjasmany/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 > *"Más que escribir código, mi objetivo es construir soluciones tecnológicas que resuelvan problemas reales y perduren en el tiempo."*
