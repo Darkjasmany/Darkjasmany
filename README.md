@@ -17,7 +17,7 @@ Ingeniero en Sistemas Computacionales • Full Stack Developer
   <a href="https://www.linkedin.com/in/jasmany-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Jasmany%20Franco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:jasmanyfranco@gmail.com">
+  <a href="mailto:hello@jasmanyfranco.dev">
     <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
