@@ -11,13 +11,13 @@ Ingeniero en Sistemas Computacionales • Full Stack Developer
 </p>
 
 <p align="center">
-  <a href="https://jasmanyfranco.dev">
+  <a href="https://jasmanyfranco.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-jasmanyfranco.dev-2563EB?style=for-the-badge">
   </a>
-  <a href="https://www.linkedin.com/in/jasmany-developer/">
+  <a href="https://www.linkedin.com/in/jasmany-developer/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Jasmany%20Franco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:hello@jasmanyfranco.dev">
+  <a href="mailto:hello@jasmanyfranco.dev" target="_blank" rel="noopener noreferrer"
     <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
