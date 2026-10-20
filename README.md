@@ -26,9 +26,11 @@ Ingeniero en Sistemas Computacionales • Full Stack Developer
 
 ## 🚀 Sobre mí
 
-Soy **Ingeniero en Sistemas Computacionales** con una trayectoria de 10 años administrando infraestructura crítica (Linux, Proxmox, bases de datos) en el sector público. 
+Soy **Ingeniero en Sistemas Computacionales**, con más de 10 años de experiencia en el sector público, trabajando con infraestructura tecnológica, administración de servidores, Linux, virtualización y bases de datos.
 
-Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplicaciones empresariales que digitalizan y automatizan procesos institucionales. Mi perfil combina la experiencia operativa y de servidores con el desarrollo moderno, permitiéndome tener una visión integral de los proyectos: desde su arquitectura inicial hasta su despliegue en producción.
+Desde **2023 me enfoco en el desarrollo de software Full Stack**, creando aplicaciones web para resolver problemas reales, digitalizar procesos y mejorar la gestión de la información. Me involucro en las distintas etapas del desarrollo, desde el diseño de interfaces y la lógica de negocio hasta la integración de servicios, la gestión de datos y el despliegue de aplicaciones en producción.
+
+Me gusta investigar, comprender cómo funcionan las tecnologías que utilizo y aprender de cada proyecto. Considero que el desarrollo de software es un proceso de aprendizaje continuo y busco fortalecer mis fundamentos técnicos mientras construyo soluciones útiles, mantenibles y escalables.
 
 ## 💼 Experiencia Destacada
 
@@ -76,6 +78,16 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+### ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
+  <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Wrangler"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/>
+</p>
+
 ### 🔍 Infraestructura & DevOps
 
 <p>
@@ -83,6 +95,14 @@ Desde **2023 me dedico al desarrollo de software Full Stack**, diseñando aplica
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+</p>
+
+### 🗺️ Mapas e Integraciones
+
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
 ---
